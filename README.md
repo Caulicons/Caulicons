@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1744&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF9A9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+VÍTOR;I'm+20+years+old+🧙🏼;I+from+Brazil,+SP+🌎;I+am+a+front+end+developer+👨‍💻.)](https://git.io/typing-svg)
