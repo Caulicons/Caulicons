@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1744&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+VÍTOR+👋;I'm+20+years+old+🧙🏼;I+from+Brazil,+SP🌎;I+am+a+front+end+developer+👨‍💻.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&duration=3900&width=1000&pause=750&lines=HELLO,+MY+NAME+IS+VÍTOR+👋;I'm+20+years+old+🧙🏼;I+from+Brazil,+SP🌎;I+am+a+front+end+developer+👨‍💻.)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caulicons&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117" alt="Caulicons github stats" /> 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h1 style="margin-top: 180px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&pause=1000&&lines=My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Skills)](https://git.io/typing-svg)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
