@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&duration=3900&width=1000&pause=750&lines=HELLO,+MY+NAME+IS+VÍTOR+👋;I'm+21+years+old+🧙🏼;I+from+Brazil,+SP🌎;I+am+a+front+end+developer+👨‍💻.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caulicons&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117" alt="Caulicons github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caulicons&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
