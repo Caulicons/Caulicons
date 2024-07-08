@@ -10,7 +10,7 @@ I am a <strong>Full Stack Developer</strong> passionate about the world of techn
 - try to create something cool with Open API.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Stacks)](https://git.io/typing-svg)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
