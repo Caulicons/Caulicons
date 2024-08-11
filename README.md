@@ -6,7 +6,6 @@ I am a <strong>Full Stack Developer</strong> passionate about the world of techn
 
 ### What am I doing now: 
 
-- learning Go.
 - try to create something cool with Open API.
 
 
