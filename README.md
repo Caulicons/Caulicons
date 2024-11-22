@@ -6,8 +6,8 @@ I am a <strong>Full Stack Developer</strong> passionate about the world of techn
 
 ### What am I doing now: 
 
-- learning Go.
-- try to create something cool with Open API.
+- learning Java.
+- try to create something cool with Spring.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Stacks)](https://git.io/typing-svg)
