@@ -11,7 +11,9 @@ I am a <strong>Full Stack Developer</strong> passionate about the world of techn
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Stacks)](https://git.io/typing-svg)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JAVA]( 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
