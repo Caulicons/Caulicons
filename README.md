@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=33&duration=3900&width=1000&center=true&pause=750&lines=Hey,+my+name+is+Vítor+👋.;I'm+from+Brazil,+SP🌎.;I'm+a+Full+Stack+Developer+👨‍💻.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=33&duration=3900&width=1000&center=true&pause=750&lines=Hey,+my+name+is+Vítor+👋.;I'm+from+Brazil,+SP🌎.;I'm+a+Software+Developer+👨‍💻.)](https://git.io/typing-svg)
  <img align="right" alt="cat codding" width="400" height="300" height=auto src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpjOWF3dXlvb2tjcW9mcGx5d3VvenpmOTU1cGljaXhqZ2NuMHVhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S4rMbaFzvxfJm/giphy.webp"/>
 
 ### Who I am ? 
