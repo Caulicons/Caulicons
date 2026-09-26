@@ -6,9 +6,9 @@ I am a <strong>Software Developer</strong> passionate about the world of technol
 
 ### What am I doing now: 
 
-- learning GO.
-- try to create something cool with GO.
-
+- Learning software architecture
+- Studying about Well Architected Framework
+- playing around a bit with AI projects
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=27&left=true&vCenter=true&width=1000&height=66&duration=5000&pause=6000&lines=My+Stacks)](https://git.io/typing-svg)
 
